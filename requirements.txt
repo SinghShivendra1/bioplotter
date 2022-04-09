@@ -4,4 +4,4 @@ pandas==0.25.2
 scikit-learn==1.0.2
 numpy==1.21.5
 pickleshare==0.7.5
-sklearn==1.0.2
+
